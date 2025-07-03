@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m a computer science student.<br>- 🌱 I’m currently learning C Programming.</p>
+<p align="left">- 🔭 I’m a computer science student.<br>- 🌱 I’m currently learning Frontend Development.<br>- ⚡ Exploring HTML, CSS, JavaScript, Git, and React.js. </p>
 
 ###
 
