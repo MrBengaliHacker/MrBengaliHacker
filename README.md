@@ -56,9 +56,9 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bengalihacker&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=bengalihacker&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+ <img src="https://github-readme-stats.vercel.app/api?username=BengaliHacker&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=false" height="250" />
+<img src="https://git-hub-streak-stats.vercel.app?user=BengaliHacker&theme=radical" height="250" />
+
 
 ###
 
