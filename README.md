@@ -33,18 +33,48 @@
 
 ###
 
+<!-- Languages -->
+<h4 align="left">Languages:</h4>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo"  />
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="C" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="Python" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS" />
+</div>
+
+<br/>
+
+<!-- Technologies -->
+<h4 align="left">Technologies:</h4>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" />
+</div>
+
+<br/>
+
+<!-- Database -->
+<h4 align="left">Database:</h4>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="SQLite" />
+</div>
+
+<br/>
+
+<!-- Tools -->
+<h4 align="left">Tools:</h4>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img src="https://skillicons.dev/icons?i=notion" height="40" alt="Notion" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=discord" height="40" alt="Discord" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
 </div>
 
 ###
