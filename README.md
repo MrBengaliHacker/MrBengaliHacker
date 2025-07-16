@@ -86,8 +86,8 @@
 <br clear="both">
 
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=BengaliHacker&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=false" height="250" />
-<img src="https://git-hub-streak-stats.vercel.app?user=BengaliHacker&theme=radical" height="250" />
+ <img src="https://github-readme-stats.vercel.app/api?username=MrBengaliHacker&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=false" height="250" />
+<img src="https://git-hub-streak-stats.vercel.app?user=MrBengaliHacker&theme=radical" height="250" />
 
 
 ###
