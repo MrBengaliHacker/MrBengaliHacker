@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m a computer science student.<br>- 🌱 I’m currently learning Frontend Development.<br>- ⚡ Exploring HTML, CSS, JavaScript, Git, and React.js. </p>
+<p align="left">- 🔭 I’m a computer science student.<br>- 🌱 I’m currently learning Frontend Development.<br>- ⚡ Exploring HTML, CSS, JavaScript, Git, and React.js.<br>- 🎨 Beyond code, I find peace in art — sketching, drawing, and expressing myself creatively.</p>
 
 ###
 
@@ -83,12 +83,16 @@
 
 ###
 
-<br clear="both">
 
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=MrBengaliHacker&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=false" height="250" />
-<img src="https://git-hub-streak-stats.vercel.app?user=MrBengaliHacker&theme=radical" height="250" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MrBengaliHacker&theme=radical&count_private=true&show_icons=true&include_all_commits=true&hide_border=false&cache_seconds=3600" height="200" />
+</div>
 
+<div align="center">
+  <img src="https://git-hub-streak-stats.vercel.app?user=MrBengaliHacker&theme=radical" height="200" />
+</div>
+
+<br/>
 
 ###
 
