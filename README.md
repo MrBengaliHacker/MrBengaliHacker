@@ -52,6 +52,8 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS" />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="Bootstrap" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" />
 </div>
 
@@ -75,6 +77,8 @@
   <img src="https://skillicons.dev/icons?i=discord" height="40" alt="Discord" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=photoshop" height="40" alt="Photoshop" />
 </div>
 
 ###
