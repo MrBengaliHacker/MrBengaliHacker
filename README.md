@@ -45,6 +45,8 @@
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" />
 </div>
 
 <br/>
