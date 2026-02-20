@@ -66,6 +66,8 @@
 <!-- Database -->
 <h4 align="left">Database:</h4>
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="SQLite" />
 </div>
 
@@ -97,7 +99,7 @@
 </div>
 
 <div align="center">
-  <img src="https://git-hub-streak-stats.vercel.app?user=MrBengaliHacker&theme=radical" height="200" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrBengaliHacker&theme=radical" height="200" />
 </div>
 
 <br/>
