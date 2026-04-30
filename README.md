@@ -13,111 +13,153 @@
 
 <br clear="both">
 
-<h1 align="center">Hi 👋, I'm Ritam Mondal</h1>
-<h3 align="center">Full Stack Developer (MERN Stack)</h3>
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-<p align="left">
-- 🔭 Computer Science student passionate about building real-world web applications.<br>
-- 🚀 Building full stack web applications using the MERN stack.<br>
-- ⚙️ Crafting scalable frontend interfaces using React and modern CSS frameworks.<br>
-- 🔌 Developing backend APIs using Node.js & Express.<br>
-- 🎨 Creative problem solver blending design and development to craft better user experiences.
-</p>
-
-<hr style="border: 1px solid #ddd; width: 100%;" />
-
-<h3 align="left">🚀 Tech Stack</h3>
-
-<!-- Core Programming -->
-<h4 align="left">Core Programming:</h4>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="Python" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="C" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=1F3156&center=true&vCenter=true&width=620&lines=Hey+there%2C+I'm+Ritam+Mondal+%F0%9F%91%8B;Full+Stack+Developer+%7C+MERN+Stack;Building+Products+That+Matter+%F0%9F%9A%80;Open+to+Collaborate+%26+Create)](https://git.io/typing-svg)
+
 </div>
+
+---
+
+## 🧑‍💻 About Me
+
+```js
+const ritam = {
+  name:       "Ritam Mondal",
+  title:      "Full Stack Developer — MERN Stack",
+  education:  "Computer Science Student",
+  location:   "India 🇮🇳",
+  stack:      ["MongoDB", "Express.js", "React", "Node.js"],
+  languages:  ["JavaScript", "Python", "C++", "C"],
+  cloud:      ["Cloudinary"],
+  interests:  ["Web Dev", "API Design", "UI/UX", "Open Source"],
+  contact:    "LinkedIn | Discord",
+  fact:       "I blend design thinking with engineering to ship better products 🎨⚙️"
+};
+```
+
+- 🔭 &nbsp;Building **full stack web applications** from idea to deployment
+- ⚡ &nbsp;Crafting **scalable, accessible frontends** with React & Tailwind CSS
+- 🔌 &nbsp;Designing **clean REST APIs** with Node.js & Express
+- ☁️ &nbsp;Managing **media & assets** efficiently via Cloudinary
+- 🎨 &nbsp;Using **Figma & Photoshop** to prototype and polish user experiences
+- 🌱 &nbsp;Always learning — currently leveling up on **system design & DevOps**
+- 📬 &nbsp;Let's connect on [LinkedIn](https://www.linkedin.com/in/ritam-mondal-677944322/) or [Discord](https://discord.com/users/1239082509589942374)
+
+---
+
+## 🚀 Tech Stack
+
+### 💻 Core Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+
+---
+
+### 🎨 Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+### 🔧 Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![RESTful APIs](https://img.shields.io/badge/RESTful%20APIs-FF6C37?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+
+---
+
+### 🗄️ Databases
+
+![MongoDB](https://img.shields.io/badge/MongoDB-224D28?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+### ☁️ Cloud & Media Services
+
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+
+---
+
+### 🛠️ Tools & Workflow
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+
+---
+
+### 🎨 UI/UX
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=MrBengaliHacker&theme=github_dark&show_icons=true&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true" height="175"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrBengaliHacker&theme=github_dark&hide_border=true&layout=compact&langs_count=8" height="175"/>
 
 <br/>
 
-<!-- Frontend -->
-<h4 align="left">Frontend:</h4>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="Bootstrap" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS" />
-</div>
-
-<br/>
-
-<!-- Backend -->
-<h4 align="left">Backend:</h4>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express.js" />
-</div>
-
-<br/>
-
-<!-- Databases -->
-<h4 align="left">Databases:</h4>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" />
-</div>
-
-<br/>
-
-<!-- Tools & Workflow -->
-<h4 align="left">Tools & Workflow:</h4>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="Postman" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MrBengaliHacker&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="175"/>
 
 </div>
 
-<br/>
+---
 
-<!-- Design & Productivity -->
-<h4 align="left">Design & Productivity:</h4>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=photoshop" height="40" alt="Photoshop" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=notion" height="40" alt="Notion" />
-</div>
-
-<hr style="border: 1px solid #ddd; width: 100%;" />
-
-<h3 align="left">🔥   My GitHub Stats :</h3>
+## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrBengaliHacker&theme=radical&show_icons=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrBengaliHacker&theme=radical" height="180"/>
+
+[![Ritam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MrBengaliHacker&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 </div>
 
-<br/>
+---
+
+## 🐾 Contribution Arcade
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bengalihacker/bengalihacker/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bengalihacker/bengalihacker/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/bengalihacker/bengalihacker/output/pacman-contribution-graph.svg">
 </picture>
+
+---
+
+<div align="center">
+
+### 💬 Quote of the Day
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+---
+
+**"Code is not just instructions for machines — it's a craft worth perfecting."**
+
+<br/>
+
+⭐ **If you find my work useful, consider giving it a star!** ⭐
+
+<br/>
+
+*Made with ❤️ by Ritam Mondal — building, learning, and improving every day*
+
+</div>
