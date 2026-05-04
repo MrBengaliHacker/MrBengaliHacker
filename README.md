@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=Ritam%20Mondal&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack&descAlignY=58&descColor=58a6ff&animation=fadeIn" width="100%"/>
+</div>
+
+<div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
@@ -49,6 +53,7 @@ const ritam = {
 ---
 
 ## 🚀 Tech Stack
+<div align="center">
 
 ### 💻 Core Languages
 
@@ -57,7 +62,6 @@ const ritam = {
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
----
 
 ### 🎨 Frontend
 
@@ -67,7 +71,6 @@ const ritam = {
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
----
 
 ### 🔧 Backend
 
@@ -76,7 +79,6 @@ const ritam = {
 ![RESTful APIs](https://img.shields.io/badge/RESTful%20APIs-FF6C37?style=for-the-badge)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 
----
 
 ### 🗄️ Databases
 
@@ -84,13 +86,11 @@ const ritam = {
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
----
 
 ### ☁️ Cloud & Media Services
 
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
 
----
 
 ### 🛠️ Tools & Workflow
 
@@ -100,11 +100,12 @@ const ritam = {
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
----
 
 ### 🎨 UI/UX
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+</div>
 
 ---
 
@@ -141,6 +142,16 @@ const ritam = {
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bengalihacker/bengalihacker/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/bengalihacker/bengalihacker/output/pacman-contribution-graph.svg">
 </picture>
+
+---
+
+## 🏆 GitHub Trophies
+ 
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=MrBengaliHacker&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+ 
+</div>
 
 ---
 
