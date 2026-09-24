@@ -113,13 +113,12 @@ const ritam = {
 
 <div align="center">
 
-<img src="https://github-stats-alpha.vercel.app/api?username=MrBengaliHacker&cc=0d1117&tc=58a6ff&ic=58a6ff&bc=0d1117" height="175"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrBengaliHacker&theme=github_dark&hide_border=true&layout=compact&langs_count=8" height="175"/>
+<img src="https://ghstats.dev/api/card?username=MrBengaliHacker&theme=midnight_sakura" alt="GitHub Stats Card" />
 
 <br/>
+<br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MrBengaliHacker&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="175"/>
+<img src="https://ghstats.dev/api/langs?username=MrBengaliHacker&theme=midnight_sakura&max_langs=6" alt="Top Languages" />
 
 </div>
 
